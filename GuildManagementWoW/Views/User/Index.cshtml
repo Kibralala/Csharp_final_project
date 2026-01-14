@@ -1,0 +1,44 @@
+﻿@model IEnumerable<GuildManagementWoW.DTO.User.UserListDTO>
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h1>Users</h1>
+@if (User.IsInRole("SuperAdmin") || User.IsInRole("Admin"))
+{
+<p>
+    <a class="btn btn-primary mb-3 btn-outline-dark" asp-action="Create">Create New User</a>
+</p>
+}
+<table class="table table-striped table-hover index-table users-table">
+    <thead>
+        <tr>
+            <th>UserName</th>
+            <th>Number of Characters</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>
+                    <a asp-action="Detail" asp-route-id="@user.Id">@user.UserName</a>
+                </td>
+                <td>
+                    @user.CharacterCount
+                </td>
+                <td>
+                    <a class="btn btn-sm btn-edit" asp-action="Edit" asp-route-id="@user.Id">Edit</a>
+                    @if (User.IsInRole("SuperAdmin") || User.IsInRole("Admin") || User.IsInRole("Officer"))
+                    {
+                        <form asp-action="Delete" asp-route-id="@user.Id" method="post" style="display:inline;">
+                            <button type="submit" class="btn btn-sm btn-danger">Delete</button>
+                        </form>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

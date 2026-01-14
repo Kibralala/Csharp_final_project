@@ -1,0 +1,33 @@
+﻿@model GuildManagementWoW.DTO.User.UserDetailDTO
+
+@{
+	ViewData["Title"] = "User Detail";
+}
+
+<h1>@Model.UserName</h1>
+
+<div class="user-detail">
+	<dl>
+
+		<dt>Characters</dt>
+		<dd>
+			@if (Model.CharacterNames.Any())
+			{
+				<ul>
+					@foreach (var name in Model.CharacterNames)
+					{
+						<li>@name</li>
+					}
+				</ul>
+			}
+			else
+			{
+				<p>No characters assigned.</p>
+			}
+		</dd>
+	</dl>
+</div>
+<p>
+	<a asp-action="Index" class="btn btn-primary btn-outline-dark">Back to list</a>
+	<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-edit">Edit</a>
+</p>

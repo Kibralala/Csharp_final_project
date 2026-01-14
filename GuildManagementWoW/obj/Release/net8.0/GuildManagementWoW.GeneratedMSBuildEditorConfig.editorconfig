@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GuildManagementWoW
+build_property.RootNamespace = GuildManagementWoW
+build_property.ProjectDir = C:\Users\hanac\OneDrive\Desktop\Kurz programování\_OOP\_C#\Projekt\GuildManagementWoW\GuildManagementWoW\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hanac\OneDrive\Desktop\Kurz programování\_OOP\_C#\Projekt\GuildManagementWoW\GuildManagementWoW
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Character/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Character/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXERldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Character/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Character/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcmFjdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/RaidSignUp/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFpZFNpZ25VcFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Raid/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFpZFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Raid/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFpZFxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Raid/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFpZFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Raid/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmFpZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/UserManagement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlck1hbmFnZW1lbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/User/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hanac/OneDrive/Desktop/Kurz programování/_OOP/_C\#/Projekt/GuildManagementWoW/GuildManagementWoW/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-odoziuyp5t

@@ -1,0 +1,64 @@
+﻿@model GuildManagementWoW.DTO.Character.CharacterDetailDTO
+
+@{
+	ViewData["Title"] = "Character Detail";
+}
+
+<div class=" container">
+	<h1 class="d-flex justify-content-center">@Model.Nick</h1>
+	<div class="d-flex justify-content-center">
+		<table class="character-detail-table table pt-2 pb-2 ps-4 pe-4">
+			<tr>
+				<th>Class</th>
+				<td>@Model.Class</td>
+			</tr>
+
+			<tr>
+				<th>Main Spec</th>
+				<td>@(Model.MainSpec ?? "-")</td>
+			</tr>
+
+			<tr>
+				<th>Main Role</th>
+				<td>@(Model.MainRole ?? "-")</td>
+			</tr>
+
+			<tr>
+				<th>Off Spec</th>
+				<td>@(Model.OffSpec ?? "-")</td>
+			</tr>
+
+			<tr>
+				<th>Off Role</th>
+				<td>@(Model.OffRole ?? "-")</td>
+			</tr>
+
+			<tr>
+				<th>Main Character</th>
+				<td>@(Model.IsMainCharacter ? "Yes" : "No")</td>
+			</tr>
+
+			<tr>
+				<th>User</th>
+				<td>
+					@if (!string.IsNullOrEmpty(Model.UserName))
+					{
+						@Model.UserName
+					}
+					else
+					{
+						<span class="text-muted">No user assigned</span>
+					}
+				</td>
+			</tr>
+		</table>
+	</div>
+	<div class="mt-3 d-flex justify-content-center gap-2">
+		<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-edit">
+			Edit
+		</a>
+		<a asp-action="Index" class="btn btn-primary btn-outline-dark">
+			Back to list
+		</a>
+	</div>
+</div>

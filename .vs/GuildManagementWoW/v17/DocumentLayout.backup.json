@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\raid\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\raid\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\raid\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\raid\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\raid\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\raid\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\user\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\usermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\usermanagement\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\character\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|c:\\users\\hanac\\onedrive\\desktop\\kurz programov\u00E1n\u00ED\\_oop\\_c#\\projekt\\guildmanagementwow\\guildmanagementwow\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{05C9B49A-5EF0-495F-8132-9DF2DE4E99C7}|GuildManagementWoW\\GuildManagementWoW.csproj|solutionrelative:guildmanagementwow\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Create.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\Raid\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Create.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\Raid\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T20:05:42.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Detail.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\Raid\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Detail.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\Raid\\Detail.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-11T20:04:46.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Program.cs",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Program.cs",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Program.cs",
+              "RelativeToolTip": "GuildManagementWoW\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T22:40:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\appsettings.json",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\appsettings.json",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\appsettings.json",
+              "RelativeToolTip": "GuildManagementWoW\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-01T22:37:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\User\\Detail.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\User\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\User\\Detail.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\User\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T21:34:17.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-30T21:31:50.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T22:00:02.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "GuildManagementWoW\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAAADABAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-28T21:46:39.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\Raid\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Raid\\Index.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\Raid\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T21:42:48.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\UserManagement\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\UserManagement\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\UserManagement\\Index.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\UserManagement\\Index.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T21:42:20.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Character\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuildManagementWoW\\Views\\Character\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hanac\\OneDrive\\Desktop\\Kurz programov\u00E1n\u00ED\\_OOP\\_C#\\Projekt\\GuildManagementWoW\\GuildManagementWoW\\Views\\Character\\Index.cshtml",
+              "RelativeToolTip": "GuildManagementWoW\\Views\\Character\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-28T21:41:27.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+﻿@model IEnumerable<GuildManagementWoW.DTO.Character.CharacterListDTO>
+
+<h1>Character List</h1>
+
+<p>
+	<a asp-action="Create" class="btn btn-primary btn-outline-dark">Create New Character</a>
+</p>
+<div class="table-responsive">
+	<table class="table table-striped table-hover index-table">
+		<thead>
+			<tr>
+				<th>Nick</th>
+				<th>Class</th>
+				<th>Main spec</th>
+				<th class="d-none d-md-table-cell">User</th>
+				<th class="d-none d-md-table-cell">Main?</th>
+				<th>Actions</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var c in Model)
+			{
+				<tr>
+					<td>
+						<a asp-action="Detail" asp-route-id="@c.Id">@c.Nick</a>
+					</td>
+					<td>@c.Class</td>
+					<td>@c.MainSpec</td>
+					<td class="d-none d-md-table-cell">@c.UserName</td>
+					<td class="d-none d-md-table-cell">@c.IsMainCharacter</td>
+					<td>
+						<a class="btn btn-sm btn-edit" asp-action="Edit" asp-route-id="@c.Id">Edit</a>
+						<form asp-action="Delete"
+							  asp-route-id="@c.Id"
+							  method="post"
+							  style="display:inline;"
+							  onsubmit="return confirm('Are you sure you want to delete character @c.Nick?');">
+							<button type="submit" class="btn btn-sm btn-danger">
+								Delete
+							</button>
+						</form>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+</div>
+
+

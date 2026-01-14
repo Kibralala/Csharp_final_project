@@ -1,0 +1,328 @@
+/*Hero / header*/
+.hero {
+    background: url('../images/raid-background.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 60px 20px;
+    border-radius: 15px;
+    color: #d4af37;
+    text-align: center;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.4);
+}
+
+
+
+/*--- TYPOGRAFIE ---*/
+h1, h2, h3, h4, h5 {
+    font-family: 'Cinzel', serif;
+    color: #d4af37;
+    font-weight: 500;
+}
+
+body, p, li, a, .card p, .form-control, .form-select, label {
+    font-family: 'Merriweather', serif, Georgia, "Times New Roman", serif;
+    color: #dcbf5e;
+}
+
+.lead, .navbar-brand {
+    font-family: 'Cinzel', serif;
+}
+
+/* --- FORM & ROLE --- */
+.role-form {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+    .role-form .form-select {
+        flex: 1;
+        min-width: 80px;
+        max-width: 100%;
+        height: 32px;
+        padding: 2px 30px 2px 8px;
+        font-size: 0.9rem;
+        line-height: 1.2;
+        position: relative;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        background-image: url('data:image/svg+xml;utf8,<svg fill="%23d4af37" height="16" viewBox="0 0 20 20" width="16" xmlns="http://www.w3.org/2000/svg"><polygon points="0,0 20,0 10,10"/></svg>');
+        background-repeat: no-repeat;
+        background-position: right 8px center;
+        background-size: 16px 16px;
+        box-shadow: 0 0 3px #d4af37;
+        transition: box-shadow 0.2s;
+    }
+
+        .role-form .form-select:hover,
+        .role-form .form-select:focus {
+            box-shadow: 0 0 10px #d4af37;
+        }
+
+    .role-form button {
+        white-space: nowrap;
+    }
+
+@media (max-width: 576px) {
+    .role-form {
+        flex-direction: column;
+        gap: 5px;
+        align-items: stretch;
+    }
+
+        .role-form .form-select,
+        .role-form button {
+            width: 100%;
+        }
+}
+
+@media (max-width: 576px) {
+    .index-table .actions-cell {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+        min-width: 120px;
+    }
+}
+
+/* --- KARTY --- */
+.card {
+    background-color: #622424;
+    border: 1px solid #660000;
+    border-radius: 10px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+    .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(255, 100, 0, 0.6);
+    }
+
+/* --- TLAÈÍTKA --- */
+.btn-primary {
+    background-color: #990000;
+    border-color: #990000;
+    color: #d4af37;
+}
+
+    .btn-primary:hover {
+        background-color: #cc0000;
+        border-color: #cc0000;
+    }
+
+.btn-danger {
+    background-color: #990000;
+    border-color: grey;
+    color: #d4af37;
+}
+
+    .btn-danger:hover {
+        background-color: #cc0000;
+        border-color: #cc0000;
+    }
+
+.btn-edit {
+    color: #6c757d !important;
+    background-color: #d4af37;
+    border-color: #bfa14d;
+}
+
+    .btn-edit:hover {
+        background-color: #ffce54;
+    }
+
+.btn-signup {
+    background-color: #2e5d3b;
+    border-color: #22432e;
+    color: #d4af37;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+    .btn-signup:hover {
+        background-color: #3b7a50;
+        border-color: #2e5d3b;
+        color: #fff2c7;
+    }
+
+/* --- NAVBAR / FOOTER --- */
+.navbar-dark {
+    background-color: #1a0f0f;
+}
+
+    .navbar-dark .navbar-nav .nav-link {
+        color: #d4af37;
+    }
+
+        .navbar-dark .navbar-nav .nav-link:hover {
+            color: #ff4500;
+        }
+
+footer {
+    background-color: #1a0f0f;
+    color: #d4af37;
+    flex-shrink: 0;
+    position: static !important;
+    margin-top: auto;
+    width: 100%;
+}
+
+    footer[b-odoziuyp5t] {
+        position: static !important;
+        margin-top: auto;
+    }
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.page-wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+    .page-wrapper main {
+        flex: 1 0 auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+/*  .page-wrapper main > .container:last-child {
+            flex: 1;
+        }*/
+
+/* --- ODKAZY --- */
+a {
+    color: #d4af37;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #ff8c00;
+        text-decoration: underline;
+    }
+
+/* --- FORMULÁØE --- */
+.form-select, .form-control {
+    background-color: #622424;
+    color: #dcbf5e;
+    border: 1px solid #660000;
+}
+
+    .form-select:focus, .form-control:focus {
+        border-color: #d4af37;
+        box-shadow: 0 0 5px #d4af37;
+        outline: none;
+    }
+
+/* --- TABULKY --- */
+.table {
+    background-color: #622424;
+    color: #fffff4;
+    border-radius: 7px;
+    overflow: hidden;
+    border-collapse: separate;
+    border-spacing: 0;
+    width: auto;
+}
+
+    .table th {
+        border-color: #660000;
+        color: #d4af37;
+    }
+
+    .table td {
+        border-color: #660000;
+        color: #fffff4;
+    }
+
+.table-hover tbody tr:hover {
+    background-color: #3d0f0f;
+}
+
+/* --- CHARACTER DETAIL TABLE --- */
+.character-detail-container {
+    display: flex;
+    justify-content: center;
+    padding: 40px 20px;
+}
+
+.character-detail-table {
+    width: auto;
+    max-width: 500px;
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #660000;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #622424;
+    color: #dcbf5e;
+}
+
+    .character-detail-table th, .character-detail-table td {
+        border: 1px solid #660000;
+        padding: 8px 12px;
+        text-align: left;
+        vertical-align: middle;
+        background-color: inherit;
+    }
+
+    .character-detail-table th {
+        white-space: nowrap;
+        font-weight: 600;
+    }
+
+/* --- INDEX TABLE --- */
+table.index-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 7px;
+    overflow: hidden;
+    background-color: #622424;
+    color: #dcbf5e;
+}
+
+    table.index-table th, table.index-table td {
+        padding: 0.75rem 1.5rem;
+        vertical-align: middle;
+        border-color: #660000;
+    }
+
+    table.index-table thead th {
+        border-bottom: 2px solid #660000;
+        color: #d4af37;
+        font-weight: 600;
+    }
+
+    table.index-table tbody tr:hover {
+        background-color: #3d0f0f;
+    }
+
+    table.index-table a {
+        color: #d4af37;
+    }
+
+        table.index-table a:hover {
+            color: #ff8c00;
+            text-decoration: underline;
+        }
+
+/* --- RAID DETAIL --- */
+.raid-detail .raid-signups li,
+.raid-detail strong,
+.user-detail {
+    color: #6c757d !important;
+}
+
+    .user-detail dt {
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        display: block;
+    }
+
+    .user-detail dd {
+        margin-left: 0;
+    }

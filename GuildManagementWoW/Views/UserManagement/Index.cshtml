@@ -1,0 +1,45 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model List<AppUser>
+@inject RoleManager<IdentityRole> RoleManager
+
+<h1>User management</h1>
+<div>
+<table class="table table-striped table-hover index-table">
+	<thead>
+		<tr>
+			<th>UserName</th>
+			<th>Role</th>
+			<th>Change role</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var user in Model)
+		{
+			@* Načteme role uživatele před HTML *@
+			var userRoles = await Context.RequestServices
+			.GetRequiredService<UserManager<AppUser>>()
+			.GetRolesAsync(user);
+
+			<tr>
+				<td>@user.UserName</td>
+				<td>@string.Join(", ", userRoles)</td>
+				<td>
+					<form asp-action="ChangeRole" method="post" class="role-form d-flex align-items-center gap-2">
+						<input type="hidden" name="userId" value="@user.Id" />
+							<select name="newRole" class="form-select">
+								@foreach (var role in RoleManager.Roles.Where(r => r.Name != "SuperAdmin"))
+								{
+									<option value="@role.Name" selected="@(userRoles.Contains(role.Name) ? "selected" : null)">
+										@role.Name
+									</option>
+								}
+							</select>
+
+							<button class="btn btn-sm btn-primary btn-outline-dark mt-1">Save</button>
+					</form>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+</div>

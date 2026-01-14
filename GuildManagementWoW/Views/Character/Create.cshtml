@@ -1,0 +1,51 @@
+﻿@model GuildManagementWoW.DTO.Character.CharacterCreateDTO
+<div class="container">
+	<h2 class="d-flex justify-content-center">Create Character</h2>
+	<div class="container pt-5 d-flex justify-content-center align-items-center">
+		<form asp-action="Create" method="post">
+			<div class="form-group">
+				<label asp-for="Nick"></label>
+				<input asp-for="Nick" class="form-control" />
+				<span asp-validation-for="Nick" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="Class"></label>
+				<input asp-for="Class" class="form-control" />
+				<span asp-validation-for="Class" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="MainSpec"></label>
+				<input asp-for="MainSpec" class="form-control" />
+				<span asp-validation-for="MainSpec" class="text-danger"></span>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="MainRole"></label>
+				<input asp-for="MainRole" class="form-control" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="OffSpec"></label>
+				<input asp-for="OffSpec" class="form-control" />
+			</div>
+
+			<div class="form-group">
+				<label asp-for="OffRole"></label>
+				<input asp-for="OffRole" class="form-control" />
+			</div>
+
+			<div class="form-group form-check">
+				<input asp-for="IsMainCharacter" class="form-check-input" />
+				<label asp-for="IsMainCharacter" class="form-check-label"></label>
+			</div>
+
+			<button type="submit" class="btn btn-primary" value="Create">Create</button>
+		</form>
+	</div>
+</div>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
